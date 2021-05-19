@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Akshanshmishra81@gmail.com
 
 <!---
 99003753/99003753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
